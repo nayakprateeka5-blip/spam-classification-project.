@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+data/*
+!data/README.txt
+models/*
+reports/*
+!reports/.gitkeep
+outputs/*
+!outputs/.gitkeep
